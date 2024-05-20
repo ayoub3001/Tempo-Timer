@@ -1,5 +1,4 @@
 # tempo_timer
-
 Una app simple de cronómetro desarrollada en Flutter, utilizando la arquitectura Bloc. Creada con el propósito de practicar el uso de Bloc en Flutter.
 
 
